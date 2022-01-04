@@ -1,0 +1,29 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "learning ",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fallf/jest-another-RPG.git"
+  },
+  "keywords": [
+    "study"
+  ],
+  "author": "me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fallf/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/fallf/jest-another-RPG#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  },
+  "devDependencies": {
+    "jest": "^27.4.5"
+  }
+}
